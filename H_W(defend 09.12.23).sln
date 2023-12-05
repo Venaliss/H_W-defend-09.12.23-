@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.34031.82
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov", "Tumakov\Tumakov.csproj", "{6DECBC69-DB44-4713-A1E0-100259616795}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov Упражнение 13.1", "Tumakov\Tumakov Упражнение 13.1.csproj", "{6DECBC69-DB44-4713-A1E0-100259616795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov Упражнение 13.2", "Tumakov Упражнение 13.2\Tumakov Упражнение 13.2.csproj", "{AA007A0A-689C-4F6C-A488-8951888FBA76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov Дом.Задание 13.1", "Tumakov Дом.Задание 13.1\Tumakov Дом.Задание 13.1.csproj", "{4F74B29E-3BFD-48A1-B7CE-D90A049FB44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov Дом.Задание 13.2", "Tumakov Дом.Задание 13.2\Tumakov Дом.Задание 13.2.csproj", "{5D21C745-B11B-4B76-A250-AB6D9353654A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov Упражнение 14.1", "Tumakov Упражнение 14.1\Tumakov Упражнение 14.1.csproj", "{F6DBE127-C133-48C3-8680-DF11EA5A3C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov Упражнение 14.2", "Tumakov Упражнение 14.2\Tumakov Упражнение 14.2.csproj", "{7DE595E4-9721-4478-9264-9D644ABB3658}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{6DECBC69-DB44-4713-A1E0-100259616795}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DECBC69-DB44-4713-A1E0-100259616795}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DECBC69-DB44-4713-A1E0-100259616795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA007A0A-689C-4F6C-A488-8951888FBA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA007A0A-689C-4F6C-A488-8951888FBA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA007A0A-689C-4F6C-A488-8951888FBA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA007A0A-689C-4F6C-A488-8951888FBA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F74B29E-3BFD-48A1-B7CE-D90A049FB44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F74B29E-3BFD-48A1-B7CE-D90A049FB44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F74B29E-3BFD-48A1-B7CE-D90A049FB44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F74B29E-3BFD-48A1-B7CE-D90A049FB44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D21C745-B11B-4B76-A250-AB6D9353654A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D21C745-B11B-4B76-A250-AB6D9353654A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D21C745-B11B-4B76-A250-AB6D9353654A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D21C745-B11B-4B76-A250-AB6D9353654A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6DBE127-C133-48C3-8680-DF11EA5A3C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DBE127-C133-48C3-8680-DF11EA5A3C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DBE127-C133-48C3-8680-DF11EA5A3C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DBE127-C133-48C3-8680-DF11EA5A3C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE595E4-9721-4478-9264-9D644ABB3658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE595E4-9721-4478-9264-9D644ABB3658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE595E4-9721-4478-9264-9D644ABB3658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE595E4-9721-4478-9264-9D644ABB3658}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

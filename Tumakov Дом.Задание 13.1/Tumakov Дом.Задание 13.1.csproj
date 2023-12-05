@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6DECBC69-DB44-4713-A1E0-100259616795}</ProjectGuid>
+    <ProjectGuid>{4F74B29E-3BFD-48A1-B7CE-D90A049FB44D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tumakov</RootNamespace>
-    <AssemblyName>Tumakov</AssemblyName>
+    <RootNamespace>Tumakov_Дом.Задание_13._1</RootNamespace>
+    <AssemblyName>Tumakov Дом.Задание 13.1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Building.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
